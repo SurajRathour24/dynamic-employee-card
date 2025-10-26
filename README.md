@@ -29,3 +29,44 @@ If no input is provided, a **default employee card** is generated automatically.
 
 ## 📂 Project Structure
 
+📁 Dynamic-Employee-Card/
+│
+├── index.html # Main HTML structure
+├── style.css # Styling for employee cards
+├── script.js # Dynamic DOM creation and logic
+
+
+---
+
+## 🖼️ Preview
+
+![Employee Card Preview](./preview.png)
+
+*(Screenshot of the generated dynamic employee card UI)*
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6)**
+
+---
+
+## 📦 Installation & Usage
+
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/YOUR-GITHUB-USERNAME/Dynamic-Employee-Card.git
+
+# Navigate into the project folder
+cd Dynamic-Employee-Card
+
+# Open the project
+Open index.html in your browser
+
+
+
